@@ -5,9 +5,9 @@ English and Persian languages
 ### How to run
 Just running the .py file makes the program run and does not need a library
 #### created by
-powerful392
+invincible627
 ##### profile github link
-https://github.com/powerful392
+https://github.com/invincible627
 
 
 # روز شمار از روز تولد تا کنون
@@ -17,6 +17,6 @@ https://github.com/powerful392
 ### نحوه اجرا
 فقط اجرا کردن فایل .py باعث میشه برنامه اجرا بشه و نیاز به کتابخانه نداره
 #### ساخته شده توسط
-powerful392
+invincible627
 ##### لینک پروفایل گیتهاب
-https://github.com/powerful392
+https://github.com/invincible627
